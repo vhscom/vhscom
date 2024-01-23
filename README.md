@@ -14,10 +14,6 @@ Tools & technologies I work with:
 
 ![list of tools and technologies I work with](https://skillicons.dev/icons?perline=11&i=aws,gcp,cloudflare,supabase,kubernetes,docker,linux,bash,ts,svelte,html,tailwind,sass,css,js,nodejs,vscode,vite,git,postgres,redis,mongodb,graphql,figma,sketchup,grafana,gradle,tauri")
 
-GitHub contribution statistics:
-
-![GitHub Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=vhscom)
-
 <!--
 **vhscom/vhscom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
