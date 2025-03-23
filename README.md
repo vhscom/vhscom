@@ -2,13 +2,13 @@
 
 Thank you for visiting. Here's a little bit about me:
 
-- 🧑‍🚀 Developing websites and apps professionally over 15 years.
-- 🙌 Open Source development creative work [hosted on Codeberg](https://codeberg.org/vhs/).
-- 🔭 Hobby projects include Supabase auth for my [Svelte Headless UI Starter](https://svelte-headlessui-starter.vercel.app).
-- 🌱 Transclusion prototype in edge functions using [Supabase GraphQL](https://vhs.codeberg.page/post/activate-use-supabase-graphql/), [Cloudflare Workers](https://workers.cloudflare.com/) and [Playwright](https://playwright.dev/).
-- 📫 How to reach me: [Twitter](https://twitter.com/vhsdev), [Telegram](https://t.me/vhsdev) or [Email](mailto:vhsdev@tutanota.com).
-- ⚡ Fun fact: I wrote a novel [web performance library](https://github.com/vhscom/fetch-inject) in 33 lines of code.
-- 🧑‍💻 Please [visit my blog](https://vhs.codeberg.page/post/) to view some of my technical writing.
+- 🧑‍🚀 Developing websites and apps professionally over 16 years.
+- 🙌 Open Source creative work [hosted on Codeberg](https://codeberg.org/vhs/). GitHub for mirrors.
+- 🔭 Hobby projects include Bun monorepo implementing [basic auth for edge runtimes](codeberg.org/vhs/private-landing) ([demo](https://private-landing.vhsdev.workers.dev/)).
+- 🌱 Transclusion prototype in edge function using [Supabase GraphQL](https://vhs.codeberg.page/post/activate-use-supabase-graphql/), [Cloudflare Workers](https://workers.cloudflare.com/) and [Playwright](https://playwright.dev/).
+- 📫 How to reach me: [Twitter](https://twitter.com/vhsdev), [Twitch] (https://www.twitch.tv/vhscom) or [Email](mailto:vhsdev@tutanota.com).
+- ⚡ Fun fact: I like to experiment with synthesizers.
+- 🧑‍💻 Please [visit my blog](https://vhs.codeberg.page/) to view some of my early technical writing.
 
 Tools & technologies I work with:
 
