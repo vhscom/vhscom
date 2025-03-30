@@ -6,7 +6,7 @@ Thank you for visiting. Here's a little bit about me:
 - 🙌 Open Source creative work [hosted on Codeberg](https://codeberg.org/vhs/). GitHub for mirrors.
 - 🔭 Hobby projects include Bun monorepo implementing [basic auth for edge runtimes](codeberg.org/vhs/private-landing) ([demo](https://private-landing.vhsdev.workers.dev/)).
 - 🌱 Transclusion prototype in edge function using [Supabase GraphQL](https://vhs.codeberg.page/post/activate-use-supabase-graphql/), [Cloudflare Workers](https://workers.cloudflare.com/) and [Playwright](https://playwright.dev/).
-- 📫 How to reach me: [on X](https://twitter.com/vhsdev), [Twitch](https://www.twitch.tv/vhscom) or [Email](mailto:vhsdev@tutanota.com).
+- 📫 How to reach me: [on X](https://twitter.com/vhsdev), [Twitch](https://www.twitch.tv/vhscom) or [Email](mailto:vhsdev@tutanota.com). [Link in Bio](https://beacons.ai/vhscom).
 - ⚡ Fun fact: I like to experiment with synthesizers.
 - 🧑‍💻 Please [visit my blog](https://vhs.codeberg.page/) to view some of my early technical writing.
 
