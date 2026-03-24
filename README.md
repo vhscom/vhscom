@@ -4,7 +4,8 @@ Thank you for visiting. Here's a little bit about me:
 
 - 🧑‍🚀 Developing websites and apps professionally over 18 years.
 - 🙌 Open Source creative work [hosted on Codeberg](https://codeberg.org/vhs/). GitHub for mirrors.
-- 🔭 Building an [edge auth reference](https://codeberg.org/vhs/private-landing) with PBKDF2, JWT and 250+ tests ([demo](https://private-landing.vhsdev.workers.dev/)).
+- 🔭 Building an [edge auth reference](https://codeberg.org/vhs/private-landing) with PBKDF2, JWT and 100% test coverage ([demo](https://private-landing.vhsdev.workers.dev/)).
+- 🐦 Built [Birdcage](https://github.com/vhscom/birdcage) — secure remote access for personal AI over WireGuard, single binary in Go.
 - 🦀 Published Rust FFI bindings and high-level wrapper for [offline speech-to-text](https://codeberg.org/vhs/aprilasr-rs) on [crates.io](https://crates.io/crates/aprilasr).
 - 🎨 Serverless [SDXL image generation](https://github.com/vhscom/sdxl-cdk-go) on AWS Bedrock with Go CDK and Lambda Function URLs.
 - 🌱 Transclusion prototype in edge function using [Supabase GraphQL](https://vhs.codeberg.page/post/activate-use-supabase-graphql/), [Cloudflare Workers](https://workers.cloudflare.com/) and [Playwright](https://playwright.dev/).
